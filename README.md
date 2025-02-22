@@ -62,7 +62,7 @@ This is a simple user management application built with Next.js, TypeScript, and
 ```
 
 ## Screenshots
-(Add screenshots here)
+![image](https://github.com/darkwaves-ofc/nextjs-prisma-example/blob/16008bf2b9037c6a62f26fafe3221b654969eb01/screenshot/screenshot.png)
 
 ## Demo Video
 [![Watch the video](https://img.youtube.com/vi/YOUR_VIDEO_ID/maxresdefault.jpg)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)
